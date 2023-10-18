@@ -690,7 +690,7 @@
       (net 1 "Net-(BT1-Pad1)") (pinfunction "A") (pintype "passive") (tstamp eb8c8f5b-b8a5-42e1-9d56-ab23b80a4761))
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+      (scale (xyz 1 1 -1))
       (rotate (xyz 0 0 0))
     )
   )
